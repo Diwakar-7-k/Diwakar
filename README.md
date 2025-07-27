@@ -16,7 +16,7 @@ I'm passionate about building efficient solutions using Excel, SQL, Power BI, ex
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Datewarehouse Project](https://github.com/Diwakar-7-k/sql-data-warehouse-project) | Excel + SQL |
+| [Datewarehouse Project](https://github.com/Diwakar-7-k/sql-data-warehouse-project) |Modern SQL Data Warehouse Project | Excel + SQL |
 
 ---
 
