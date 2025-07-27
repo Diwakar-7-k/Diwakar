@@ -4,7 +4,7 @@
 
 I'm passionate about building efficient solutions using Excel, SQL, Power BI, exploring data, and learning new technologies.
 
-- 🔧 Skills: **Excel**, **SQL**, **Power BI**, **ETL Workflows**
+- 🔧 Skills: **Excel**, **SQL**, **Power BI**, **ETL**
 - 🚀 Interests: **Data Analyst**, **Business Analyst**, **Cloud Platforms**
 - 📊 Projects: Focused on building clean, scalable, and data-driven solutions.
 - 🌱 Currently learning: **Python**, **Pandas**
